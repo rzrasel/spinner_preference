@@ -2,6 +2,8 @@
 Spinner Preference
 [![](https://jitpack.io/v/rzrasel/And-Library-Core.svg)](https://jitpack.io/#rzrasel/And-Library-Core)
 
+
+<a href='https://bintray.com/rzrasel/Test/spinner-preference?source=watch' alt='Get automatic notifications about new "spinner-preference" versions'><img src='https://www.bintray.com/docs/images/bintray_badge_color.png'></a>
 <!--
 <a href="https://www.w3schools.com">
 <img border="0" alt="W3Schools" src="logo_w3s.gif" width="100" height="100">
